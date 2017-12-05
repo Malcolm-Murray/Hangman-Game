@@ -72,7 +72,3 @@ lettersGuess();
 currentWords();
 updateScore();
 userGuess();
-
-
-
-
